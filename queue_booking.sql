@@ -39,7 +39,7 @@ CREATE TABLE `employ` (
 --
 
 INSERT INTO `employ` (`id_employ`, `name`, `address`, `tel`) VALUES
-(2147483647, 'สุวิภา บุญสุข', '144/6 ม.13ต.จันทึก อ.ปากช่อง จ.นครราชสีมา 30130111', '0625950679');
+(2147483647, 'สุวิภา บุญสุข', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', '0000000000');
 
 -- --------------------------------------------------------
 
